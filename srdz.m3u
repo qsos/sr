@@ -1,7 +1,7 @@
 ﻿#EXTM3U
  
-#EXTINF:-1 group-title="最新电影",逃离比勒陀利亚
-https://v.xboku.com/20200825/wtvu3pD8/index.m3u8
+#EXTINF:-1 group-title="CBA直播",山东VS同曦回放
+https://h5vod.gslb.cmvideo.cn/depository_yqv/asset/zhengshi/1005/670/691/1005670691/media/1005670691_1035399111_56.mp4?msisdn=44edd96829e600868dbd542012daa5bb&mdspid=&spid=800033&netType=0&sid=1504862841&pid=2028597139&timestamp=20201023142308&Channel_ID=0131_10010001005&ProgramID=693983850&ParentNodeID=-99&assertID=1504862841&client_ip=39.152.33.238&SecurityKey=20201023142308&mvid=1005670691&mcid=1003&mpid=120000112458&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&encrypt=b89c9a17f484e859f455a939eeec4353
 
 #EXTINF:-1 group-title="最新电影",逃离比勒陀利亚
 https://youku.cdn7-okzy.com/20201019/21110_5540e4af/index.m3u8
