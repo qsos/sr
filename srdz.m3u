@@ -1,8 +1,8 @@
 ﻿#EXTM3U
  
-#EXTINF:-1 group-title="CBA直播",辽宁VS北控20：00
+#EXTINF:-1 group-title="CBA直播",浙江VS四川19：35
 https://h5.live.miguvideo.com/wd_r1/basketball/cba1/720264/index.m3u8?msisdn=e026e2eb459e9085e87b55581fd9c8a4&mdspid=&spid=&netType=0&sid=7510004292&pid=2028597139&timestamp=20201023200403&Channel_ID=0131_10010001005&ProgramID=693882795&ParentNodeID=-99&assertID=7510004292&client_ip=123.245.246.227&SecurityKey=20201023200403&mvid=7510001928&mcid=500020&mpid=120000112456&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&bean=mgsph5&encrypt=2eeb1c4aedfbb8fc5ddee8cac740b236
-#EXTINF:-1 group-title="CBA直播",广东VS广厦20：00
+#EXTINF:-1 group-title="CBA直播",上海VS北京20：00
 https://h5live.gslb.cmvideo.cn/migu/sports/20200724/pcstation4/51/index.m3u8?msisdn=740ade28a89cea772d8155575a726d0c&mdspid=&spid=&netType=0&sid=7510004290&pid=2028597139&timestamp=20201023200312&Channel_ID=0131_10010001005&ProgramID=693882217&ParentNodeID=-99&assertID=7510004290&client_ip=123.245.246.227&SecurityKey=20201023200312&mvid=7510001927&mcid=500020&mpid=120000112451&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&bean=mgsph5&puData=ca50bb650a4223b7fbdf5ac9a6482a29&ddCalcu=9c2aea522038b14b66a590caa452f2d3bbf7
 
 #EXTINF:-1 group-title="最新电影",麦路人（国语）
