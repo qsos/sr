@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 group-title="CBA直播",青岛VS北控19：35
-https://h5live.gslb.cmvideo.cn/migu/sports/20200724/pcstation1/51/index.m3u8?msisdn=e391db5395a815eeee6664b0a37456c8&mdspid=&spid=&netType=0&sid=7510004340&pid=2028597139&timestamp=20201026193500&Channel_ID=0131_10010001005&ProgramID=693976248&ParentNodeID=-99&assertID=7510004340&client_ip=123.245.240.186&SecurityKey=20201026193500&mvid=7510001952&mcid=500020&mpid=120000112467&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&bean=mgsph5&puData=fd1e5eb1a8fffcfdf884e43dff3c82a7&ddCalcu=7fade2128e3c513efbf1da384fef4f8c8ffd
+#EXTINF:-1 group-title="CBA直播",福建VS上海19：35
+https://h5live.gslb.cmvideo.cn/migu/sports/20200724/pcstation1/51/index.m3u8?msisdn=ed59080d04948a5c326569cdb2e46b81&mdspid=&spid=&netType=0&sid=7510004562&pid=2028597139&timestamp=20201027192451&Channel_ID=0131_10010001005&ProgramID=694069249&ParentNodeID=-99&assertID=7510004562&client_ip=123.245.240.186&SecurityKey=20201027192451&mvid=7510002063&mcid=500020&mpid=120000112469&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&bean=mgsph5&puData=e09e382f8c8807c78110933bebe336bd&ddCalcu=deb0e6923e4331e8b2efb83c389800171c87
 #EXTINF:-1 group-title="CBA直播",新疆VS同曦20：00
 https://h5.live.miguvideo.com/wd_r1/basketball/cba1/720264/index.m3u8?msisdn=c970124502ae6216bc6b64ba64537b03&mdspid=&spid=&netType=0&sid=7510004356&pid=2028597139&timestamp=20201026194540&Channel_ID=0131_10010001005&ProgramID=693978250&ParentNodeID=-99&assertID=7510004356&client_ip=123.245.240.186&SecurityKey=20201026194540&mvid=7510001960&mcid=500020&mpid=120000112466&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&bean=mgsph5&encrypt=32834a9a860d8acce15ed99f9db11fe4
