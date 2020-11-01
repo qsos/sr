@@ -1,8 +1,12 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="CBA直播",新疆VS江苏15：30 
+#EXTINF:-1 group-title="CBA直播",广州VS同曦11：00 
 
-#EXTINF:-1 group-title="CBA直播",浙江VS深圳15：30 
+#EXTINF:-1 group-title="CBA直播",四川VS广厦11：00
 
-#EXTINF:-1 group-title="CBA直播",山西VS福建19：35
- https://h5.live.miguvideo.com/migu/sports/20200724/pcstation1/51/index.m3u8?msisdn=add575e4ca701400ee7a7e69b168be87&mdspid=&spid=&netType=0&sid=7510005188&pid=2028597139&timestamp=20201031192742&Channel_ID=0131_10010001005&ProgramID=694608481&ParentNodeID=-99&assertID=7510005188&client_ip=123.245.240.186&SecurityKey=20201031192742&mvid=7510002376&mcid=500020&mpid=120000116735&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&bean=mgsph5&encrypt=5c29905ccec36e0c98ccbc83279448f8
-#EXTINF:-1 group-title="CBA直播",山东VS青岛20：00
+#EXTINF:-1 group-title="CBA直播",浙江VS北京15：30
+
+#EXTINF:-1 group-title="CBA直播",深圳VS上海15：30
+
+#EXTINF:-1 group-title="CBA直播",辽宁VS青岛20：00
+
+#EXTINF:-1 group-title="CBA直播",北控VS江苏20：00
