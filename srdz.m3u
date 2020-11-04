@@ -1,9 +1,9 @@
 ﻿#EXTM3U
 
 #EXTINF:-1 group-title="CBA直播",天津VS北控12：00
-
+https://hlsmgsplive.miguvideo.com/migu/sports/20200724/pcstation1/51/index.m3u8?msisdn=d286aaed7e69bad71ba2919806e4049d&mdspid=&spid=&netType=0&sid=7510005476&pid=2028597139&timestamp=20201104125101&Channel_ID=0131_10010001005&ProgramID=694704817&ParentNodeID=-99&assertID=7510005476&client_ip=39.152.33.238&SecurityKey=20201104125101&mvid=7510002520&mcid=500020&mpid=120000116736&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&encrypt=6354f1c1ae408aa4b6eb21005190fed5
 #EXTINF:-1 group-title="CBA直播",同曦VS山东12：30
-
+https://hlsmgsplive.miguvideo.com/wd_r1/basketball/cba1/720264/index.m3u8?msisdn=3916388674903e5c093e9198a4118c48&mdspid=&spid=&netType=0&sid=7510005620&pid=2028597139&timestamp=20201104125141&Channel_ID=0131_10010001005&ProgramID=694934203&ParentNodeID=-99&assertID=7510005620&client_ip=39.152.33.238&SecurityKey=20201104125141&mvid=7510002592&mcid=500020&mpid=120000116746&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&bean=mgsph5&encrypt=9c323e265d06ebeba1c8bc38bfb7f35b
 #EXTINF:-1 group-title="CBA直播",吉林VS青岛19：35
 
 #EXTINF:-1 group-title="CBA直播",新疆VS辽宁20：00
