@@ -4,8 +4,8 @@
 
 #EXTINF:-1 group-title="CBA直播",同曦VS吉林15：30
 https://h5live.gslb.cmvideo.cn/wd_r1/basketball/cba1/720264/index.m3u8?msisdn=78c380949363a93e776ea6f87f65586e&mdspid=&spid=&netType=0&sid=7510006014&pid=2028597139&timestamp=20201108162825&Channel_ID=0131_10010001005&ProgramID=695103881&ParentNodeID=-99&assertID=7510006014&client_ip=123.245.246.186&SecurityKey=20201108162825&mvid=7510002789&mcid=500020&mpid=120000116775&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&bean=mgsph5&puData=9fe3d68d713a805c9301a82a36075cbf&ddCalcu=f9bfece05357d106683da72183aa1800359c
-#EXTINF:-1 group-title="CBA直播",山东VS北控19：35
-
-#EXTINF:-1 group-title="CBA直播",上海VS福建20：00
+#EXTINF：-1 group-title =“ CBA直播”，山东VS北控19：35
+http://mgsp.live.miguvideo.com:8088/wd_r1/basketball/cba2/1080264/01.m3u8?msisdn=2946037464a5033d3bb1a7ad838c2199&mdspid=&spid=&netType=0&sid=7510005916&pid=2028597139&timestamp=20201108194607&Channel_ID=0132_10010001005&ProgramID=695089537&ParentNodeID=-99&assertID=7510005916&client_ip=123.245.246.186&SecurityKey=20201108194607&mvid=7510002740&mcid=500020&mpid=120000116772&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&bean=mgspwww&mtv_session=7163bda4e056b5d73071b905ace24e2d&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=1f3aa2359692d766a02c68591a0ca389
+#EXTINF：-1 group-title =“ CBA直播”，上海VS福建20：00
 
 
