@@ -1,11 +1,11 @@
 ﻿#EXTM3U
 
 #EXTINF:-1 group-title="CBA直播",广州VS北控15：30
-https://h5live.gslb.cmvideo.cn/wd_r1/basketball/cba1/720264/index.m3u8?msisdn=5caa50d193e5a2d32142b6820e05b7a0&mdspid=&spid=&netType=0&sid=7510006172&pid=2028597139&timestamp=20201111165259&Channel_ID=0131_10010001005&ProgramID=695208046&ParentNodeID=-99&assertID=7510006172&client_ip=39.152.33.238&SecurityKey=20201111165259&mvid=7510002868&mcid=500020&mpid=120000116784&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&bean=mgsph5&puData=68230d71fe489dbcd7b194a6c99f059f&ddCalcu=f698e521035f019d97c16fae449819bd7bdc
+
 #EXTINF:-1 group-title="CBA直播",深圳VS福建15：30
-https://h5live.gslb.cmvideo.cn/migu/sports/20200724/pcstation1/51/index.m3u8?msisdn=e68151580a239008e25cb6828b035689&mdspid=&spid=&netType=0&sid=7510006236&pid=2028597139&timestamp=20201111165331&Channel_ID=0131_10010001005&ProgramID=695211353&ParentNodeID=-99&assertID=7510006236&client_ip=39.152.33.238&SecurityKey=20201111165331&mvid=7510002900&mcid=500020&mpid=120000116783&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&bean=mgsph5&puData=10a59d49f9f423bd3ff9c090d4daec93&ddCalcu=3190eca1e55a91dd44d90f990fc492f3fb3d
-#EXTINF:-1 group-title="CBA直播",浙江VS广东20：00
-https://h5live.gslb.cmvideo.cn/wd_r1/basketball/cba2/720264/index.m3u8?msisdn=39eb3653086112b75170b7214255d586&mdspid=&spid=&netType=0&sid=7510006238&pid=2028597139&timestamp=20201111194655&Channel_ID=0131_10010001005&ProgramID=695211458&ParentNodeID=-99&assertID=7510006238&client_ip=123.245.245.34&SecurityKey=20201111194655&mvid=7510002901&mcid=500020&mpid=120000116773&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&bean=mgsph5&puData=7e2a32355f37f7a6ab3ac92ca289a374&ddCalcu=477ee321aa59318223a5c52f93c7af37baa6
-#EXTINF:-1 group-title="CBA直播",辽宁VS吉林20：00
-https://h5live.gslb.cmvideo.cn/wd_r1/basketball/cba1/720264/index.m3u8?msisdn=5e82cb18456041ca828eb721a9f0eb4b&mdspid=&spid=&netType=0&sid=7510006174&pid=2028597139&timestamp=20201111194722&Channel_ID=0131_10010001005&ProgramID=695208060&ParentNodeID=-99&assertID=7510006174&client_ip=123.245.245.34&SecurityKey=20201111194722&mvid=7510002869&mcid=500020&mpid=120000116785&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&bean=mgsph5&puData=a18bd5aa96c7a64000c7c179b2989d59&ddCalcu=9a51ed819b58d1952aba99761cc77ac60400
+
+#EXTINF:-1 group-title="CBA直播",北京VS广厦19：35
+
+#EXTINF:-1 group-title="CBA直播",山西VS上海20：00
+
 
