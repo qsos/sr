@@ -1,11 +1,11 @@
 ﻿#EXTM3U
 
 #EXTINF:-1 group-title="CBA直播",山东VS天津16：30
-https://mgsp.live.miguvideo.com:443/wd_r1/basketball/cba2/720264/index.m3u8?msisdn=a4673a500b5a22794a8a233c04c3b2e4&mdspid=&spid=800033&netType=0&sid=7510009062&pid=2028597139&timestamp=20201202193459&Channel_ID=0131_10010001005&ProgramID=696684772&ParentNodeID=-99&assertID=7510009062&client_ip=123.245.245.63&SecurityKey=20201202193459&mvid=7510004313&mcid=500020&mpid=120000136116&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&bean=mgsph5&encrypt=850449778e520d3f0034026d7f26b19a
+
 #EXTINF:-1 group-title="CBA直播",江苏VS北控17：00
 
-#EXTINF:-1 group-title="CBA直播",广州VS辽宁19：35
+#EXTINF:-1 group-title="CBA直播",山西VS广东19：35
 
-#EXTINF:-1 group-title="CBA直播",新疆VS山东20：00
-https://mgsp.live.miguvideo.com:443/wd_r1/basketball/cba1/720264/01.m3u8?msisdn=67266dc589da286b9c212350eb2bac96&mdspid=&spid=800033&netType=0&sid=7510009056&pid=2028597139&timestamp=20201202195752&Channel_ID=0131_10010001005&ProgramID=696684357&ParentNodeID=-99&assertID=7510009056&client_ip=123.245.245.63&SecurityKey=20201202195752&mvid=7510004310&mcid=500020&mpid=120000136108&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&bean=mgsph5&mtv_session=d7fe0d08e8ea4cfbc123fbe832d8d2e6&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4449f0a54464a85766275cd6c6796453
+#EXTINF:-1 group-title="CBA直播",广厦VS福建20：00
+
 
