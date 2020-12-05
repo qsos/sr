@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 group-title="CBA直播",辽宁VS吉林20:00
-https://mgsp.live.miguvideo.com:443/wd_r1/basketball/cba1/720264/01.m3u8?msisdn=ca886006a6b86ce463832d92fe90d2db&mdspid=&spid=800033&netType=0&sid=7510009636&pid=2028597139&timestamp=20201204194616&Channel_ID=0131_10010001005&ProgramID=696899561&ParentNodeID=-99&assertID=7510009636&client_ip=123.245.245.63&SecurityKey=20201204194616&mvid=7510004600&mcid=500020&mpid=120000136114&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&bean=mgsph5&mtv_session=0702cf47d98d6b93016c1d9bb5f983a6&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=5808334a6d1c4fd593133643b1c8ef47
-#EXTINF:-1 group-title="CBA直播",北控VS同曦20：00
-https://mgsp.live.miguvideo.com:443/wd_r1/basketball/cba2/720264/01.m3u8?msisdn=9bd964481c104d2bc5352d94a31e370e&mdspid=&spid=800033&netType=0&sid=7510009718&pid=2028597139&timestamp=20201204194806&Channel_ID=0131_10010001005&ProgramID=696914996&ParentNodeID=-99&assertID=7510009718&client_ip=123.245.245.63&SecurityKey=20201204194806&mvid=7510004641&mcid=500020&mpid=120000136112&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&bean=mgsph5&mtv_session=d565354be41ae2a881a479e8fff3c34d&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=68f10e2d246a27d34beaea43de5c7e2a
+#EXTINF:-1 group-title="CBA直播",广东VS广厦20:00
+https://mgsp.live.miguvideo.com:443/wd_r1/basketball/cba1/720264/index.m3u8?msisdn=4238a13570012d3d6c8e32ff4fb706ca&mdspid=&spid=800033&netType=0&sid=7510009724&pid=2028597139&timestamp=20201205210240&Channel_ID=0131_10010001005&ProgramID=696918983&ParentNodeID=-99&assertID=7510009724&client_ip=123.245.245.63&SecurityKey=20201205210240&mvid=7510004644&mcid=500020&mpid=120000136124&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&bean=mgsph5&encrypt=b343209558e2a11fc192910a709a5694
+#EXTINF:-1 group-title="CBA直播",福建VS北京20：00
+https://mgsp.live.miguvideo.com/wd_r1/basketball/cba2/720264/index.m3u8?msisdn=c38382cbcc42eec3ec963302b5534da7&mdspid=&spid=800033&netType=0&sid=7510009770&pid=2028597139&timestamp=20201205210629&Channel_ID=0131_10010001005&ProgramID=696920728&ParentNodeID=-99&assertID=7510009770&client_ip=123.245.245.63&SecurityKey=20201205210629&mvid=7510004667&mcid=500020&mpid=120000136123&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&bean=mgsph5&encrypt=acf728701b56139f35c50836ff2b0475
 
