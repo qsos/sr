@@ -1,6 +1,5 @@
 EXTM3U
 
-#EXTINF:-1 group-title="CBA直播",福建VS辽宁19：35
-https://mgsp.live.miguvideo.com:443/migu/sports/20200724/pcstation1/51/01.m3u8?msisdn=0c76a6dd028b37bdb1d4ed85db7f32c8&mdspid=&spid=800033&netType=0&sid=7510017329&pid=2028597139&timestamp=20210301192146&Channel_ID=0132_10010001005&ProgramID=704069102&ParentNodeID=-99&assertID=7510017329&client_ip=123.245.241.157&SecurityKey=20210301192146&mvid=7510008451&mcid=500020&mpid=120000146506&playurlVersion=SJ-A1-4.3.1&userid=&jmhm=&videocodec=h264&bean=mgspwww&mtv_session=d6f47deb3fddc059cd07ebd8d773a0e7&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=338fdcfa925f490e137e7bf31898f483
-#EXTINF:-1 group-title="电视剧",精神变态日记（第一集）
-https://b.baobuzz.com/m3u8/559462.m3u8?sign=872252116615690823cd3b5ae85fef4a
+#EXTINF:-1 group-title="CBA直播",广州VS同曦11：00
+https://mgsp-ksc.live.miguvideo.com/migu/sports/20210924/pcstation31/51/index.m3u8?msisdn=7d744ab20a6d5ce7c183b074e8526db4&mdspid=&spid=800033&netType=0&sid=7510076383&pid=2028597139&timestamp=20221007112004&Channel_ID=0132_10010001005&ProgramID=747370211&ParentNodeID=-99&assertID=7510076383&client_ip=218.24.54.10&SecurityKey=20221007112004&mvid=7510038048&mcid=500020&mpid=120000266809&playurlVersion=WX-A1-5.9.3-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspwww&encrypt=078e8d05a1b13aa99eab12c31b8059db
+
