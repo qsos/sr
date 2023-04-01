@@ -1,6 +1,4 @@
 EXTM3U
 
-#EXTINF:-1 group-title="CBA直播",辽宁VS光轴19：35
-https://mgsp-ksc.live.miguvideo.com/migu/sports/olympic090/51/20210702/01.m3u8?msisdn=765c4d8e96d375113076ead4a47e3970&mdspid=&spid=800033&netType=0&sid=7510078595&pid=2028597139&timestamp=20221018192229&Channel_ID=0132_10010001005&ProgramID=747904927&ParentNodeID=-99&assertID=7510078595&client_ip=42.177.155.22&SecurityKey=20221018192229&mvid=7510039154&mcid=500020&mpid=120000266896&playurlVersion=ZQ-A1-5.9.3-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspwww&encrypt=ec75c23405016c65686454a20f75f8ff&HlsSubType=1&HlsProfileId=1&nphaid=0&mtv_session=2e5660029069355cb71e3d7821f5f9b2
-#EXTINF:-1 group-title="电影",妈妈
-https://dy2.yle888.vip/20221008/RGjbAlTH/index.m3u8
+#EXTINF:-1 group-title="CBA直播",广州VS北京
+https://mgsp-hs.live.miguvideo.com/migu/sports/olympic090/51/20210702/index.m3u8?msisdn=c85e91a15596c8a90cbd3cb37192e8de&mdspid=&spid=800033&netType=0&sid=7510123655&pid=2028597139&timestamp=20230401200325&Channel_ID=0132_10010001005&ProgramID=788307704&ParentNodeID=-99&assertID=7510123655&client_ip=123.188.188.48&SecurityKey=20230401200325&promotionId=&mvid=7510061490&mcid=500020&mpid=120000450506&playurlVersion=ZQ-A1-6.3.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspwww&encrypt=1b296f16488b76fb3fe8b6c5f1367a01
