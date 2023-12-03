@@ -1,6 +1,4 @@
 EXTM3U
 
-#EXTINF:-1 group-title="CBA",北京VS吉林
-https://mgsp-ali.live.miguvideo.com/migu/sports/olympic082/51/20210702/index.m3u8?msisdn=96b696a03c7297e77057574661a43529&mdspid=&spid=800033&netType=0&sid=7510184513&pid=2028597139&timestamp=20231022200512&Channel_ID=0132_10010001005&ProgramID=875780577&ParentNodeID=-99&assertID=7510184513&client_ip=113.231.151.202&SecurityKey=20231022200512&promotionId=&mvid=7510091890&mcid=500020&mpid=120000486826&playurlVersion=WX-A1-6.9.3-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspwww&encrypt=2db75e02eaa50ce8c3ee2eb92820aa4e
-#EXTINF:-1 group-title="CBA",浙江VS上海
-https://mgbs.live.miguvideo.com/migu/sports/olympic083/51/20210702/index.m3u8?msisdn=627207ec6393b4de989d575a4493ca73&mdspid=&spid=800033&netType=0&sid=7510184445&pid=2028597139&timestamp=20231022202656&Channel_ID=0132_10010001005&ProgramID=875753334&ParentNodeID=-99&assertID=7510184445&client_ip=113.231.151.202&SecurityKey=20231022202656&promotionId=&mvid=7510091856&mcid=500020&mpid=120000486829&playurlVersion=WX-A1-6.9.3-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspwww&encrypt=57a7ba06ef5cdc6b5b834a270ade206f
+#EXTINF:-1 group-title="CBA",辽宁VS山东
+https://mgsp-ali.live.miguvideo.com/migu/sports/50zhenyhtest10/54/20221027/index.m3u8?msisdn=3244c2143b28a2b606612f756555233b&mdspid=&spid=800033&netType=0&sid=7510196625&pid=2028597139&timestamp=20231203193429&Channel_ID=0132_10010001005&ProgramID=889432829&ParentNodeID=-99&assertID=7510196625&client_ip=42.57.138.25&SecurityKey=20231203193429&promotionId=&mvid=7510097945&mcid=500020&mpid=120000489095&playurlVersion=WX-A1-6.11.3-RELEASE&userid=&jmhm=&videocodec=h265&bean=mgspwww&encrypt=6d2106c8c0ecc1acfb2d4539603b13a8
