@@ -1,6 +1,4 @@
 EXTM3U
 
-#EXTINF:-1 group-title="CBA",辽宁VS北控
-https://mgsp-ali.live.miguvideo.com/migu/sports/50zhenyhtest10/54/20221027/index.m3u8?msisdn=50d59da4648b9841ec1a5378f282e03a&mdspid=&spid=800033&netType=0&sid=7510198799&pid=2028597139&timestamp=20231210192445&Channel_ID=0132_10010001005&ProgramID=891542274&ParentNodeID=-99&assertID=7510198799&client_ip=42.57.139.215&SecurityKey=20231210192445&promotionId=&mvid=7510099032&mcid=500020&mpid=120000489499&playurlVersion=WX-A1-6.11.3-RELEASE&userid=&jmhm=&videocodec=h265&bean=mgspwww&encrypt=189262feb8e45c572e48684f14e92544
-#EXTINF:-1 group-title="CBA",广东VS北控
-https://mgsp-ali.live.miguvideo.com/migu/sports/50zhenyhvivid21/54/20221109/index.m3u8?msisdn=909ccb736e9e28d6b6923ecc11cdd54b&mdspid=&spid=800033&netType=0&sid=7510196067&pid=2028597139&timestamp=20231206190330&Channel_ID=0132_10010001005&ProgramID=889331616&ParentNodeID=-99&assertID=7510196067&client_ip=42.57.139.215&SecurityKey=20231206190330&promotionId=&mvid=7510097666&mcid=500020&mpid=120000489172&playurlVersion=WX-A1-6.11.3-RELEASE&userid=&jmhm=&videocodec=h265&bean=mgspwww&encrypt=993e4ec98aa6abfef1d0a3f4b758ac70
+#EXTINF:-1 group-title="电影",第二十条
+https://v.cdnlz12.com/20240215/11572_dda99b8e/index.m3u8
